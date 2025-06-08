@@ -5,8 +5,8 @@ TODO:
 * [ ] Write out the "rules"
 
 Notes:
-* [ ] First participant gets N hours
-* [ ] Subsequent participants gets 20 min + N hours (20 min to catch up)
+* [ ] First participant gets three hours
+* [ ] Subsequent participants gets 20 min + three hours (20 min to catch up)
 
 Requirements from participants:
 * First participant should start by introducing the relay and what we are doing
